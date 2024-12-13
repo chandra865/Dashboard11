@@ -39,6 +39,6 @@ The dashboard was designed to be clean, responsive, and easy to navigate. With *
 - Authentication and backend integration are not part of this version but can be added later.
 - The dashboard assumes that users are familiar with basic insurance claim terminology and processes.
 
-![Dashboard](/dashboard11.png)
+![Dashboard](/dashboard/public/dashboard11.png)
 
 
